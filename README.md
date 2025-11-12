@@ -4,7 +4,6 @@
 
 The AI Virtual Mouse is a computer vision project that allows users to control their system cursor using hand gestures captured through a webcam.
 It uses OpenCV for image processing and MediaPipe for real-time hand tracking, replacing traditional mouse inputs with gesture-based control.
-
 This project demonstrates how AI and Computer Vision can enhance Human–Computer Interaction (HCI) through touchless control systems.
 
 ⚙ Features
